@@ -44,3 +44,15 @@ sudo apt-get install python-tk
 #Maybe you'll need to install network x
 sudo pip install networkx
 ```
+
+
+## Migração python versão 2 para versão 3
+
+ - [documento oficial](https://docs.python.org/3/howto/pyporting.html)
+ - [texto sobre pq devemos migrar](http://blog.aprendapython.com.br/articles/python2-ou-3-1fr71/)
+ - [outro texto com motivos](http://www.zeletron.com.br/2013/03/portando-para-o-python-3.html)
+ - [Relato de uma migração](https://www.agatetepe.com.br/licoes-aprendidas-da-migracao-para-o-python-3/)
+ - [Diferença entre versões](https://blog.caelum.com.br/quais-as-diferencas-entre-python-2-e-python-3/)
+ - [Cheat Sheet](http://python-future.org/compatible_idioms.html)
+ 
+
