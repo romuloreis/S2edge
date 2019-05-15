@@ -28,6 +28,71 @@
 ## Parameters
 
 
+
+```
+Entity - Dispositivos físicos.
+
+entity_name   = {"id": 0, "model": "cloud","mytag":"cloud", "IPT": 5000 * 10 ^ 6, "RAM": 40000,"COST": 3,"WATT":20.0}
+
+int id
+int type
+position_x
+position_y
+region
+cpu
+ram
+storage
+bw
+boolean idle
+vm_list
+cost_per_second
+costPerMem
+costPerStorage
+costPerBw
+```
+
+```
+Link Enlaces
+
+    link_name = {"s": 0, "d": 1, "BW": 1, "PR": 10}
+
+type
+max_bw
+cur_bw
+latency
+weight
+```
+
+
+```
+Instância de serviço
+
+id
+type
+service_id
+cpu
+ram
+storage
+bw
+idle
+userId
+currentAllocatedStorageSize
+currentAllocatedRam
+currentAllocatedBw
+mapped
+```
+
+```
+Entidade consumidora
+
+id
+position_x
+position_y
+type
+service_list
+```
+
+
 ## List of commands to install YAFS
 
 ```bash
