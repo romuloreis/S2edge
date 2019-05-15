@@ -13,8 +13,6 @@
  **YAFS**
   - [YAFS - Github Repository](https://github.com/acsicuib/YAFS)
   - [Oficial YAFS Paper](https://arxiv.org/abs/1902.01091)
-  
-  
 
 ## TO-DO List
   - Upload my code
@@ -23,6 +21,12 @@
     - Pq python 2.7? 
       - As dependencias citadas no git do YAFS (Simpy, Networkx, Numpy, Pandas, tqdm) tem suporte ao python > 3
     - Como fazer o port para python 3+?
+      - Foi criada uma seção sobre o port da versão 2 para 3 - Requer bastante trabalho braçal
+
+
+## Scenario Description
+## Parameters
+
 
 ## List of commands to install YAFS
 
@@ -46,7 +50,7 @@ sudo pip install networkx
 ```
 
 
-## Migração python versão 2 para versão 3
+## Porting Python 2 to 3
 
  - [documento oficial](https://docs.python.org/3/howto/pyporting.html)
  - [texto sobre pq devemos migrar](http://blog.aprendapython.com.br/articles/python2-ou-3-1fr71/)
