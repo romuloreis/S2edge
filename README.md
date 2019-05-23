@@ -11,8 +11,14 @@
   - [Thesis Proposal](https://drive.google.com/file/d/1Y4hif0Qc5UIZAsrok2qE9wWHzW9udMki/view?usp=sharing)
  
  **YAFS**
+ 
   - [YAFS - Github Repository](https://github.com/acsicuib/YAFS)
   - [Oficial YAFS Paper](https://arxiv.org/abs/1902.01091)
+  
+  **More articles**
+  
+    - [Edge/Fog history and real application examples](https://www.microsoft.com/en-us/research/uploads/prod/2018/10/edge-computing-a-historical-perspective-and-direction.pdf)
+    - [Survey about fog/edge app placement](https://arxiv.org/abs/1901.05717)
 
 ## TO-DO List
   - Upload my code
