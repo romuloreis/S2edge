@@ -17,8 +17,8 @@
   
   **More articles**
   
-    - [Edge/Fog history and real application examples](https://www.microsoft.com/en-us/research/uploads/prod/2018/10/edge-computing-a-historical-perspective-and-direction.pdf)
-    - [Survey about fog/edge app placement](https://arxiv.org/abs/1901.05717)
+   - [Edge/Fog history and real application examples](https://www.microsoft.com/en-us/research/uploads/prod/2018/10/edge-computing-a-historical-perspective-and-direction.pdf)
+   - [Survey about fog/edge app placement](https://arxiv.org/abs/1901.05717)
 
 ## TO-DO List
   - Upload my code
@@ -105,6 +105,9 @@ service_list
 sudo apt-get install python-pip
 
 sudo apt-get install python2.7
+
+sudo apt-get install python-numpy python-scipy python-matplotlib ipython ipyth
+on-notebook python-pandas python-sympy python-nose
 
 git clone https://github.com/acsicuib/YAFS
 
